@@ -65,6 +65,16 @@
         "com.unity.modules.ui": "1.0.0"
       }
     },
+    "xyz.candycoded.forms": {
+      "version": "https://github.com/CandyCoded/Forms.git#v1.1.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.modules.uielements": "1.0.0"
+      },
+      "hash": "0ca0eb67b6f3204333e415ff1c381db93160ebbb"
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
